@@ -4,8 +4,8 @@
     "static/js/0.0e17e803.chunk.js.map": "./static/js/0.0e17e803.chunk.js.map",
     "static/js/1.75733f32.chunk.js": "./static/js/1.75733f32.chunk.js",
     "static/js/1.75733f32.chunk.js.map": "./static/js/1.75733f32.chunk.js.map",
-    "main.js": "./static/js/main.b481be89.chunk.js",
-    "main.js.map": "./static/js/main.b481be89.chunk.js.map",
+    "main.js": "./static/js/main.4f8ca7ed.chunk.js",
+    "main.js.map": "./static/js/main.4f8ca7ed.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.6e5d40c4.js",
     "runtime-main.js.map": "./static/js/runtime-main.6e5d40c4.js.map",
     "static/css/4.50403f6d.chunk.css": "./static/css/4.50403f6d.chunk.css",
@@ -22,7 +22,7 @@
     "static/js/9.844f95a3.chunk.js": "./static/js/9.844f95a3.chunk.js",
     "static/js/9.844f95a3.chunk.js.map": "./static/js/9.844f95a3.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.f566e780035b736580991e0555d864df.js": "./precache-manifest.f566e780035b736580991e0555d864df.js",
+    "precache-manifest.d26814053d856f3ab53164ff0ab07849.js": "./precache-manifest.d26814053d856f3ab53164ff0ab07849.js",
     "service-worker.js": "./service-worker.js",
     "static/css/4.50403f6d.chunk.css.map": "./static/css/4.50403f6d.chunk.css.map",
     "static/js/4.30f93daf.chunk.js.LICENSE.txt": "./static/js/4.30f93daf.chunk.js.LICENSE.txt",
@@ -42,8 +42,8 @@
     "static/media/dropdown.svg": "./static/media/dropdown.7d32d2fa.svg",
     "static/media/dropup-blue.svg": "./static/media/dropup-blue.b96d70e1.svg",
     "static/media/link.svg": "./static/media/link.50c67f3c.svg",
-    "static/media/logo.svg": "./static/media/logo.e36b31e0.svg",
-    "static/media/logo_white.svg": "./static/media/logo_white.edb44e56.svg",
+    "static/media/logo.svg": "./static/media/logo.a34602ed.svg",
+    "static/media/logo_white.svg": "./static/media/logo_white.a34602ed.svg",
     "static/media/magnifying-glass.svg": "./static/media/magnifying-glass.67440097.svg",
     "static/media/menu.svg": "./static/media/menu.4f2c4440.svg",
     "static/media/metamask.png": "./static/media/metamask.023762b6.png",
@@ -63,6 +63,6 @@
     "static/js/runtime-main.6e5d40c4.js",
     "static/css/4.50403f6d.chunk.css",
     "static/js/4.30f93daf.chunk.js",
-    "static/js/main.b481be89.chunk.js"
+    "static/js/main.4f8ca7ed.chunk.js"
   ]
 }
